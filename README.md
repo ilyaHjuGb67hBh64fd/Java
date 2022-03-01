@@ -1,3 +1,3 @@
 # Java
 
-### It's my patterns cases
+# That's my patterns cases for overview
