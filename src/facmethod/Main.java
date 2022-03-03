@@ -1,4 +1,4 @@
-package FactoryMethod;
+package facmethod;
 
 public class Main {
 
